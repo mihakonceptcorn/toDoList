@@ -1,0 +1,6 @@
+composer.phar
+.idea/
+App/Config/db.php
+.gitignore
+App/composer.lock
+App/vendor/
