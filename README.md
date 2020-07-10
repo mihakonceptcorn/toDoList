@@ -5,10 +5,10 @@ Simple ToDo List app
 http://todo.polushop.com.ua/
 
 # About
-Admin can upload to-do list in txt format.
-login: admin
-pass: qwertyx
-All can mark item completed.
+Admin can upload to-do list in txt format.  
+login: admin  
+pass: qwertyx  
+All can mark item completed.  
 
 # Example of file
 
